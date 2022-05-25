@@ -51,6 +51,7 @@ ai for the link length. Once I’ve obtained them, I can just plug them in to th
 ![Screenshot (84)](https://user-images.githubusercontent.com/75234588/170179125-213fc2c4-926d-47f2-b15f-7c1f39083360.png)
 
 ### PLOT 
+
  
 #### 6 DOF
 
